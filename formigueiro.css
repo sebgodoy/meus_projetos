@@ -1,0 +1,76 @@
+html {
+    background-image: url('fundo.png');
+    
+}
+
+body {
+    background-color: rgb(10, 128, 8);
+    color: rgb(0, 0, 0);
+    margin-right: 22px;
+    margin-left: 22px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-radius:12mm;
+    border-bottom: 15px;
+    border-top: 15px;
+    border-left: 11px;
+    border-right: 11px;
+    padding:12mm;
+    border-color:rgb(77, 46, 7);
+    border-style: double;
+}
+h1 {
+    
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:60px;
+    font-weight:bolder;
+    text-align: center;
+    text-decoration:underline;
+    
+}
+h2{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:40px;
+    font-weight: bold;
+
+}
+main {
+    font-style: italic;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 22px;
+}
+article{
+    font-style: italic;
+    text-align:justify;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 22px;
+}
+footer{
+    letter-spacing: 2px;
+    text-align:left;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 19px;
+}
+footer a{
+color: antiquewhite;
+}
+footer a:hover {
+    color: rgb(77, 46, 7);
+    }
+#ants{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:3px;
+    margin-bottom:12px;
+    width:48%;
+    border-radius:10mm ;
+
+}
+.info {
+    text-align:end;
+    font-size: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
